@@ -1,0 +1,6 @@
+# .gitignore
+# Ignore environment variable file
+.env
+
+# Ignore old assets directory
+old/
